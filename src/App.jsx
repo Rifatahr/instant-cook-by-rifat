@@ -16,6 +16,16 @@ const App = () => {
       {/* Our Recipes Section */}
       <OurRecipes></OurRecipes>
 
+     {/* Recipes Section  */}
+     <Recipes></Recipes>
+
+     {/* Sidebar Section */}
+     
+
+
+ 
+     
+
       
     </div>
   );
