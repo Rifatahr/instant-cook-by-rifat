@@ -1,0 +1,183 @@
+[
+  {
+    "recipe_image": "https://i.ibb.co.com/C5ttqTrP/Spicy-Chicken-Stir-Fry.jpg",
+    "recipe_id": "RCP-001",
+    "recipe_name": "Spicy Chicken Stir Fry",
+    "short_description": "A quick and flavorful spicy chicken stir fry with vegetables.",
+    "ingredients": [
+      "550 g chicken",
+      "120 ml soy sauce",
+      "200 g basil leaf",
+      "400 g mushroom",
+      "2 tbsp chili sauce",
+      "1 tsp black pepper"
+    ],
+    "preparing_time": "30 min",
+    "calories": "320 calories"
+  },
+  {
+    "recipe_image": "https://i.ibb.co.com/6RjLyHSy/Beef-Curry.jpg",
+    "recipe_id": "RCP-002",
+    "recipe_name": "Beef Curry",
+    "short_description": "A rich and aromatic beef curry cooked with traditional spices.",
+    "ingredients": [
+      "600 g beef",
+      "2 onions",
+      "3 tomatoes",
+      "2 tbsp curry powder",
+      "1 tbsp ginger paste",
+      "1 tbsp garlic paste"
+    ],
+    "preparing_time": "45 min",
+    "calories": "450 calories"
+  },
+  {
+    "recipe_image": "https://i.ibb.co.com/SwhkBP7P/Garlic-Butter-Shrimp.jpg",
+    "recipe_id": "RCP-003",
+    "recipe_name": "Garlic Butter Shrimp",
+    "short_description": "Juicy shrimp cooked in garlic butter sauce.",
+    "ingredients": [
+      "300 g shrimp",
+      "3 tbsp butter",
+      "4 cloves garlic",
+      "1 tbsp lemon juice",
+      "1 tsp salt"
+    ],
+    "preparing_time": "20 min",
+    "calories": "250 calories"
+  },
+  {
+    "recipe_image": "https://i.ibb.co.com/1tYMjtYM/Vegetable-Fried-Rice.jpg",
+    "recipe_id": "RCP-004",
+    "recipe_name": "Vegetable Fried Rice",
+    "short_description": "A tasty fried rice loaded with fresh vegetables.",
+    "ingredients": [
+      "400 g cooked rice",
+      "100 g peas",
+      "100 g carrots",
+      "2 eggs",
+      "2 tbsp soy sauce",
+      "1 tbsp oil"
+    ],
+    "preparing_time": "25 min",
+    "calories": "380 calories"
+  },
+  {
+    "recipe_image": "https://i.ibb.co.com/Q7gDb0Lj/Pasta-Alfredo.jpg",
+    "recipe_id": "RCP-005",
+    "recipe_name": "Pasta Alfredo",
+    "short_description": "Creamy Alfredo pasta with parmesan cheese.",
+    "ingredients": [
+      "350 g pasta",
+      "200 ml cream",
+      "100 g parmesan cheese",
+      "2 tbsp butter",
+      "1 cup spinach"
+    ],
+    "preparing_time": "35 min",
+    "calories": "470 calories"
+  },
+  {
+    "recipe_image": "https://i.ibb.co.com/207NnNSD/Tomato-Soup.jpg",
+    "recipe_id": "RCP-006",
+    "recipe_name": "Tomato Soup",
+    "short_description": "Warm and comforting homemade tomato soup.",
+    "ingredients": [
+      "500 g tomatoes",
+      "1 onion",
+      "2 cloves garlic",
+      "1 cup vegetable broth",
+      "1 tsp salt"
+    ],
+    "preparing_time": "30 min",
+    "calories": "180 calories"
+  },
+  {
+    "recipe_image": "https://i.ibb.co.com/hxw9wTj0/Grilled-Salmon.jpg",
+    "recipe_id": "RCP-007",
+    "recipe_name": "Grilled Salmon",
+    "short_description": "Fresh salmon grilled with herbs and lemon.",
+    "ingredients": [
+      "300 g salmon",
+      "1 tbsp olive oil",
+      "1 tsp black pepper",
+      "1 tsp salt",
+      "1 lemon"
+    ],
+    "preparing_time": "20 min",
+    "calories": "350 calories"
+  },
+  {
+    "recipe_image": "https://i.ibb.co.com/gZwYFKnG/Mango-Smoothie.jpg",
+    "recipe_id": "RCP-008",
+    "recipe_name": "Mango Smoothie",
+    "short_description": "A refreshing and sweet mango smoothie.",
+    "ingredients": [
+      "2 ripe mangoes",
+      "200 ml milk",
+      "2 tbsp sugar",
+      "4 ice cubes"
+    ],
+    "preparing_time": "10 min",
+    "calories": "210 calories"
+  },
+  {
+    "recipe_image": "https://i.ibb.co.com/YT7GJRJn/Chicken-Caesar-Salad.jpg",
+    "recipe_id": "RCP-009",
+    "recipe_name": "Chicken Caesar Salad",
+    "short_description": "Crispy lettuce with grilled chicken and Caesar dressing.",
+    "ingredients": [
+      "200 g chicken breast",
+      "1 head romaine lettuce",
+      "50 g croutons",
+      "30 g parmesan",
+      "2 tbsp Caesar dressing"
+    ],
+    "preparing_time": "15 min",
+    "calories": "260 calories"
+  },
+  {
+    "recipe_image": "https://i.ibb.co.com/Xx7j8pBG/Mushroom-Omelette.jpg",
+    "recipe_id": "RCP-010",
+    "recipe_name": "Mushroom Omelette",
+    "short_description": "Soft omelette filled with sautéed mushrooms.",
+    "ingredients": [
+      "3 eggs",
+      "150 g mushroom",
+      "1 tbsp butter",
+      "1 tsp salt",
+      "1 tsp pepper"
+    ],
+    "preparing_time": "12 min",
+    "calories": "220 calories"
+  },
+  {
+    "recipe_image": "https://i.ibb.co.com/p6dkX4jr/BBQ-Chicken-Wings.jpg",
+    "recipe_id": "RCP-011",
+    "recipe_name": "BBQ Chicken Wings",
+    "short_description": "Crispy baked chicken wings coated with BBQ sauce.",
+    "ingredients": [
+      "500 g chicken wings",
+      "4 tbsp BBQ sauce",
+      "1 tsp chili powder",
+      "1 tsp black pepper"
+    ],
+    "preparing_time": "40 min",
+    "calories": "420 calories"
+  },
+  {
+    "recipe_image": "https://i.ibb.co.com/RdqNHhL/Fruit-Salad.jpg",
+    "recipe_id": "RCP-012",
+    "recipe_name": "Fruit Salad",
+    "short_description": "A colorful and healthy mix of fresh fruits.",
+    "ingredients": [
+      "1 apple",
+      "1 banana",
+      "1 mango",
+      "100 g grapes",
+      "1 tbsp honey"
+    ],
+    "preparing_time": "10 min",
+    "calories": "150 calories"
+  }
+]
