@@ -12,8 +12,8 @@
       "2 tbsp chili sauce",
       "1 tsp black pepper"
     ],
-    "preparing_time": "30 min",
-    "calories": "320 calories"
+    "preparing_time": 30,
+    "calories": 320
   },
   {
     "recipe_image": "https://i.ibb.co.com/6RjLyHSy/Beef-Curry.jpg",
@@ -28,8 +28,8 @@
       "1 tbsp ginger paste",
       "1 tbsp garlic paste"
     ],
-    "preparing_time": "45 min",
-    "calories": "450 calories"
+    "preparing_time": 45,
+    "calories": 450
   },
   {
     "recipe_image": "https://i.ibb.co.com/SwhkBP7P/Garlic-Butter-Shrimp.jpg",
@@ -43,8 +43,8 @@
       "1 tbsp lemon juice",
       "1 tsp salt"
     ],
-    "preparing_time": "20 min",
-    "calories": "250 calories"
+    "preparing_time": 20,
+    "calories": 250
   },
   {
     "recipe_image": "https://i.ibb.co.com/1tYMjtYM/Vegetable-Fried-Rice.jpg",
@@ -59,8 +59,8 @@
       "2 tbsp soy sauce",
       "1 tbsp oil"
     ],
-    "preparing_time": "25 min",
-    "calories": "380 calories"
+    "preparing_time": 25,
+    "calories": 380
   },
   {
     "recipe_image": "https://i.ibb.co.com/Q7gDb0Lj/Pasta-Alfredo.jpg",
@@ -74,8 +74,8 @@
       "2 tbsp butter",
       "1 cup spinach"
     ],
-    "preparing_time": "35 min",
-    "calories": "470 calories"
+    "preparing_time": 35,
+    "calories": 470
   },
   {
     "recipe_image": "https://i.ibb.co.com/207NnNSD/Tomato-Soup.jpg",
@@ -89,8 +89,8 @@
       "1 cup vegetable broth",
       "1 tsp salt"
     ],
-    "preparing_time": "30 min",
-    "calories": "180 calories"
+    "preparing_time": 30,
+    "calories": 180
   },
   {
     "recipe_image": "https://i.ibb.co.com/hxw9wTj0/Grilled-Salmon.jpg",
@@ -104,8 +104,8 @@
       "1 tsp salt",
       "1 lemon"
     ],
-    "preparing_time": "20 min",
-    "calories": "350 calories"
+    "preparing_time": 20,
+    "calories": 350
   },
   {
     "recipe_image": "https://i.ibb.co.com/gZwYFKnG/Mango-Smoothie.jpg",
@@ -118,8 +118,8 @@
       "2 tbsp sugar",
       "4 ice cubes"
     ],
-    "preparing_time": "10 min",
-    "calories": "210 calories"
+    "preparing_time": 10,
+    "calories": 210
   },
   {
     "recipe_image": "https://i.ibb.co.com/YT7GJRJn/Chicken-Caesar-Salad.jpg",
@@ -133,8 +133,8 @@
       "30 g parmesan",
       "2 tbsp Caesar dressing"
     ],
-    "preparing_time": "15 min",
-    "calories": "260 calories"
+    "preparing_time": 15,
+    "calories": 260
   },
   {
     "recipe_image": "https://i.ibb.co.com/Xx7j8pBG/Mushroom-Omelette.jpg",
@@ -148,8 +148,8 @@
       "1 tsp salt",
       "1 tsp pepper"
     ],
-    "preparing_time": "12 min",
-    "calories": "220 calories"
+    "preparing_time": 12,
+    "calories": 220
   },
   {
     "recipe_image": "https://i.ibb.co.com/p6dkX4jr/BBQ-Chicken-Wings.jpg",
@@ -162,8 +162,8 @@
       "1 tsp chili powder",
       "1 tsp black pepper"
     ],
-    "preparing_time": "40 min",
-    "calories": "420 calories"
+    "preparing_time": 40,
+    "calories": 420
   },
   {
     "recipe_image": "https://i.ibb.co.com/RdqNHhL/Fruit-Salad.jpg",
@@ -177,7 +177,7 @@
       "100 g grapes",
       "1 tbsp honey"
     ],
-    "preparing_time": "10 min",
-    "calories": "150 calories"
+    "preparing_time": 10,
+    "calories": 150
   }
 ]

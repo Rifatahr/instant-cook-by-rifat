@@ -1,16 +1,40 @@
-# React + Vite
+# Recipe Calories 🥗👨‍🍳
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### Recipe Calories is a dynamic and interactive web application designed for food enthusiasts and home cooks. It allows users to browse a curated collection of recipes, view detailed ingredient lists, and manage their cooking schedule by tracking preparation times and calorie intake.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## React Compiler
+#  Features 🌟
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Recipe Discovery: Browse a visually appealing list of recipes (e.g., Spaghetti Bolognese, Chicken Caesar Salad) with high-quality images.
 
-## Expanding the ESLint configuration
+## Detailed Recipe Cards: Each card displays:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Short description
+- List of key ingredients (e.g., "Ingredients: 6")
+- Preparation time
+- Calorie count
+
+## Interactive Cooking Queue:
+
+- "Want to Cook" List: Add recipes to your queue with a single click.
+
+- "Currently Cooking" Status: Move items from the queue to the active cooking list.
+
+## Smart Calculations:
+
+- Automatically calculates the Total Preparation Time for all currently cooking items.
+
+- Automatically sums up the Total Calories to help you track nutritional goals.
+
+## Responsive Design: Optimized for a seamless experience on both desktop and mobile devices.
+
+# Technologies Used 🛠️
+
+- Frontend: HTML5, DaisyUI, JavaScript and React.js 
+
+- Styling: Tailwind CSS 
+
+- Icons: FontAwesome 
+
+- Font: Inter
