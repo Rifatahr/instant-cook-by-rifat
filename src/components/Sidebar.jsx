@@ -30,8 +30,8 @@ const Sidebar = ({
                     <tr className="hover:bg-base-300" key={index}>
                             <th>{index+1}</th>
                             <td>{recipe.recipe_name}</td>
-                            <td>{recipe.preparing_time}</td>
-                            <td>{recipe.calories}</td>
+                            <td>{recipe.preparing_time} Minutes </td>
+                            <td>{recipe.calories} Calories</td>
                             <td>
                                 <button onClick = {()=> {
                                 handleRemove(recipe.recipe_id)
@@ -68,17 +68,17 @@ const Sidebar = ({
                     {prepareRecipe.map((recipe , index) =>(
                     <tr className="hover:bg-base-300" key={index}>
                             <th>{index+1}</th>
-                            <td>{recipe.recipe_name}</td>
-                            <td>{recipe.preparing_time}</td>
-                            <td>{recipe.calories}</td>
+                            <td>{recipe.recipe_name}  </td>
+                            <td>{recipe.preparing_time} Minutes</td>
+                            <td>{recipe.calories} Calories </td>
                         </tr> 
                     ))}
 
                     <tr className="border-none">
                             <th></th>
                             <td></td>
-                            <th>Total Time = {totalTime}</th>
-                            <th>Total Calories = {totalCalories}</th>
+                            <th>Total Time = {totalTime} Minutes</th>
+                            <th>Total Calories = {totalCalories} Calories</th>
                             
                     </tr>
                         

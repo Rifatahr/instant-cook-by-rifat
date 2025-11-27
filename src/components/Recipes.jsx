@@ -16,7 +16,7 @@ const Recipes = ({addRecipeToQueue}) => {
                 {recipes.map(recipe =>
                     <div key={recipe.recipe_id} className="card bg-base-100   shadow-sm">
                         <figure className="px-8 pt-6">
-                            <img className="w-full md:h-56 rounded-2xl"
+                            <img className="w-full  md:h-[380px] rounded-2xl"
                                 src={recipe.recipe_image}
                                 alt="Recipe Image" />
                         </figure>
@@ -32,11 +32,11 @@ const Recipes = ({addRecipeToQueue}) => {
                             <div className="flex gap-8 text-gray-500">
                                 <div className="flex items-center gap-2">
                                     <p><i className="fa-regular fa-clock text-lg"></i></p>
-                                    <p> {recipe.preparing_time} </p>
+                                    <p> {recipe.preparing_time} Minutes </p>
                                 </div>
                                 <div className="flex gap-2">
                                   <p><i className="fa-solid fa-fire text-lg"></i></p>
-                                    <p> {recipe.calories} </p>
+                                    <p> {recipe.calories} Calories </p>
                                 </div>
 
 

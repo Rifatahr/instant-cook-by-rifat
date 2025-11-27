@@ -3,7 +3,7 @@
 const Banner = () => {
     return (
         <div
-            className=" w-full h-96 bg-cover bg-center bg-no-repeat rounded-3xl mb-10  mx-auto -10" 
+            className=" w-full h-full lg:h-[650px] bg-cover bg-center bg-no-repeat rounded-3xl mb-10  mx-auto -10" 
             style={{
                 backgroundImage: `url(https://i.ibb.co.com/wZKsHFSZ/Screenshot-2025-11-25-211108.jpg)`
             }}
